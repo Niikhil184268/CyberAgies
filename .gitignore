@@ -32,3 +32,8 @@ reports/generated/
 *.pem
 *.key
 secrets/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
